@@ -9,9 +9,9 @@ https://golang.org/doc/install
 
 ## Documentos
 
-[Teste de Unidade] (./docs/TESTE_UNIDADE.md)
-[Teste de Integração] (./docs/TESTE_INTEGRACAO.md)
-[Cobertura dos Testes] (./docs/COBERTURA_TESTES.md)
+[Teste de Unidade] (docs/TESTE_UNIDADE.md)
+[Teste de Integração] (docs/TESTE_INTEGRACAO.md)
+[Cobertura dos Testes] (docs/COBERTURA_TESTES.md)
 
 ### Links úteis
 
