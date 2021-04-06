@@ -1,8 +1,6 @@
 ## Go com TDD
 
-| Linguagem  | Pacote "testing" |
-| :--------- | :--------------: | :--------------------: | :-------------- |
-| 30/03/2021 |      0.0.1       | Descrição do documento | Laio de Alencar |
+| Linguagem Go| Pacote "testing" |
 
 ## Instalar Go
 
