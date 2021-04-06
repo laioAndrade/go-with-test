@@ -11,7 +11,7 @@ https://golang.org/doc/install
 
 [Teste de Unidade] (docs/TESTE_DE_UNIDADE.md)
 [Teste de Integração] (docs/TESTE_INTEGRACAO.md)
-[Cobertura dos Testes] (docs/COBERTURA_TESTES.md)
+[Cobertura dos Testes] (docs/COBERTURA_TESTE.md)
 
 ### Links úteis
 
